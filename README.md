@@ -13,7 +13,7 @@ I am a back-end software engineer with expertise in creating PHP bots, building 
 - :rocket: Always ready to collaborate for Dev Experiments
 - 
 - [![Linkedin Badge](https://img.shields.io/badge/-sukhrob_nuraliev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sukhrob-nuraliev-100845186/)](https://www.linkedin.com/in/sukhrob-nuraliev-100845186/) 
-[![Telegram Badge](https://img.shields.io/badge/@sukhrobnuraliev-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/sukhrobnuraliev)](https://t.me/sukhrobnuraliev) 
+[![Telegram Badge](https://img.shields.io/badge/@mukhtorjonov-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/Mukhtorjonov00)](https://t.me/Mukhtorjonov00) 
 [![instagram Badge](https://img.shields.io/badge/@mukhtorjonov-FF0004?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/@mukhtorjonov.00)](https://www.instagram.com/@mukhtorjonov.00)
 
 
@@ -42,7 +42,3 @@ I am a back-end software engineer with expertise in creating PHP bots, building 
 ![Image](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
 ![Image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sukhrobnuraliev&show_icons=true&theme=gotham" alt="sukhrobnuraliev" />
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sukhrobnuraliev&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="sukhrobnuraliev" /></a> </p>
