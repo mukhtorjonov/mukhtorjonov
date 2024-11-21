@@ -12,7 +12,7 @@ I am a back-end software engineer with expertise in creating PHP bots, building 
 - :muscle: Do Bodybuilding & Calisthenics
 - :rocket: Always ready to collaborate for Dev Experiments
 - 
-- [![Linkedin Badge](https://img.shields.io/badge/-sukhrob_nuraliev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sukhrob-nuraliev-100845186/)](https://www.linkedin.com/in/sukhrob-nuraliev-100845186/) 
+
 [![Telegram Badge](https://img.shields.io/badge/@mukhtorjonov-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/Mukhtorjonov00)](https://t.me/Mukhtorjonov00) 
 [![instagram Badge](https://img.shields.io/badge/@mukhtorjonov-FF0004?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/@mukhtorjonov.00)](https://www.instagram.com/@mukhtorjonov.00)
 
