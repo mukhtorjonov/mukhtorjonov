@@ -7,7 +7,7 @@ I am a back-end software engineer with expertise in creating PHP bots, building 
 [![Linkedin Badge](https://img.shields.io/badge/-sukhrob_nuraliev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sukhrob-nuraliev-100845186/)](https://www.linkedin.com/in/sukhrob-nuraliev-100845186/) 
 [![Telegram Badge](https://img.shields.io/badge/@sukhrobnuraliev-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/sukhrobnuraliev)](https://t.me/sukhrobnuraliev) 
 [![Youtube Badge](https://img.shields.io/badge/@NuraliyevOrgatadi-FF0004?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@NuraliyevOrgatadi)](https://www.youtube.com/@NuraliyevOrgatadi)
-[![Instagram Badge](https://img.shields.io/badge/@mukhtorjonov.00-FF0004?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/@mukhtorjonov.00)](https://www.instagram.com/mukhtorjonov.00)
+[![Instagram Badge](https://img.shields.io/badge/@mukhtorjonov.00instagram&logoColor=white&link=https://www.instagram.com/@mukhtorjonov.00)](https://www.instagram.com/mukhtorjonov.00)
 
 
   
